@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bastien-arlot&label=Profile%20views&color=0e75b6&style=flat" alt="bastien-arlot" /> </p>
 
-- 🔭 I’m currently working on **My 42 Cursus and THP Bootcamp**
+- 🔭 I’m currently working on **https://scoreit-thp.herokuapp.com/**
 
-- 🌱 I’m currently learning **Ruby, Rails and JavaScript**
+- 🌱 I’m currently learning **Ruby, Rails, JavaScript and React**
 
 - 👯 I’m looking to collaborate on **Anything interesting!**
 
-- 🤝 I’m looking for help with **JavaScript and Ruby/Rails**
+- 🤝 I’m learning with **42 School and THP Bootcamp**
 
 - 📫 How to reach me **arlot.b@gmail.com**
 
